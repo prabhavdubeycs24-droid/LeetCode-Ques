@@ -30,5 +30,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0237-delete-node-in-a-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0725-split-linked-list-in-parts) |
 <!---LeetCode Topics End-->
