@@ -24,15 +24,11 @@ class Solution {
         for(int i =1;i<size-k;i++){
             temp=temp.next;
         }
-        if(temp==null){
-            return head;
-        }
         ListNode newHead = temp.next;
         temp.next=null;
-        temp=head;
         ListNode temp1=newHead;
         if(temp1==null){
-            return head;
+            return head ; 
         }
         while(temp1.next!=null){
             temp1=temp1.next;
