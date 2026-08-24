@@ -1,19 +1,15 @@
 class Solution {
     public int findTheWinner(int n, int k) {
         if(n==1){
-            return 1 ;
+            return 1 ; 
         }
-        Queue<Integer> q = new LinkedList<>();
-        for(int i=1;i<=n;i++){
-            q.add(i);
-        }
-        while(q.size()!=1){
+       int ans = (findTheWinner(n-1,k)+k)%n;
+       if(ans==0){// as it is 1 based indexing ans==0 points to the nth node 
+        return n ;
+       }
+       else{
+        return ans ;
+       }
 
-            for(int i=0;i<k-1;i++){
-                q.add(q.remove());
-            }
-            q.remove();
-        }
-        return q.peek();
     }
 }
