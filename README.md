@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Two Pointers
 |  |
 | ------- |
@@ -86,10 +87,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0024-swap-nodes-in-pairs) |
 | [0143-reorder-list](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0234-palindrome-linked-list) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Math
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0002-add-two-numbers) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -114,4 +117,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Queue
+|  |
+| ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1823-find-the-winner-of-the-circular-game) |
+## Simulation
+|  |
+| ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1823-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
