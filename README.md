@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Two Pointers
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0142-linked-list-cycle-ii) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0023-merge-k-sorted-lists) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -161,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0101-symmetric-tree) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -177,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0101-symmetric-tree) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0114-flatten-binary-tree-to-linked-list) |
