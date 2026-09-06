@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0125-valid-palindrome) |
 | [0257-binary-tree-paths](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0257-binary-tree-paths) |
 | [0402-remove-k-digits](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0402-remove-k-digits) |
 ## Stack
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0143-reorder-list) |
