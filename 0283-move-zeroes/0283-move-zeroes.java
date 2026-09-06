@@ -1,0 +1,17 @@
+// whenever u get non zero swap it with "i" (throw it towards left)
+class Solution {
+    public void moveZeroes(int[] arr) {
+        int i =0;
+        int j = 0;
+        while(j!=arr.length){
+            if(arr[j]!=0){
+                int temp = arr[i];
+                arr[i]=arr[j];
+                arr[j]=temp;
+
+                i++;
+            }
+            j++;
+        }
+    }
+}
