@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0088-merge-sorted-array) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0189-rotate-array](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0268-missing-number) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1721-swapping-nodes-in-a-linked-list) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0268-missing-number) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Divide and Conquer
