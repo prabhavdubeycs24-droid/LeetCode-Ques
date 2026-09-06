@@ -7,7 +7,6 @@ class Solution {
         int[] ans = new int[2];
         int count1 = 0;
         int count2 = 0;
-        ArrayList<Integer> al = new ArrayList<>();
         while(i<arr1.length && j<arr2.length){
             if(arr1[i]==arr2[j]){
                 count1++;
