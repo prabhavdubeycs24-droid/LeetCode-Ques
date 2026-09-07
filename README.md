@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0033-search-in-rotated-sorted-array](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0033-search-in-rotated-sorted-array) |
 | [0066-plus-one](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0088-merge-sorted-array) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0033-search-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
