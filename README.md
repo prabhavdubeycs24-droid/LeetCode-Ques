@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0088-merge-sorted-array) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0189-rotate-array](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0189-rotate-array) |
+| [0215-kth-largest-element-in-an-array](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0283-move-zeroes) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -127,10 +128,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0023-merge-k-sorted-lists) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0215-kth-largest-element-in-an-array](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0215-kth-largest-element-in-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0023-merge-k-sorted-lists) |
+| [0215-kth-largest-element-in-an-array](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0215-kth-largest-element-in-an-array) |
 ## Merge Sort
 |  |
 | ------- |
@@ -237,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0088-merge-sorted-array) |
+| [0215-kth-largest-element-in-an-array](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -247,4 +251,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0268-missing-number) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
