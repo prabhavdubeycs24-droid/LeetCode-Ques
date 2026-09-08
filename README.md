@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0287-find-the-duplicate-number) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0142-linked-list-cycle-ii) |
+| [0287-find-the-duplicate-number](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0287-find-the-duplicate-number) |
 ## Recursion
 |  |
 | ------- |
@@ -250,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0033-search-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0287-find-the-duplicate-number) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Bit Manipulation
@@ -257,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0287-find-the-duplicate-number) |
 ## Quickselect
 |  |
 | ------- |
@@ -269,4 +274,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0852-peak-index-in-a-mountain-array) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
