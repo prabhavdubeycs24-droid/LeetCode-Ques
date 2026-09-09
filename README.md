@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0136-single-number](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0268-missing-number) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0287-find-the-duplicate-number) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0852-peak-index-in-a-mountain-array) |
