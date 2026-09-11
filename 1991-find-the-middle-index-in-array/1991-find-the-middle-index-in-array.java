@@ -1,23 +1,16 @@
 class Solution {
     public int findMiddleIndex(int[] arr) {
         int left = 0;
-        int right = 0;
-        int[] leftsum = new int[arr.length];
-        leftsum[0]=0;
-        for(int i=0;i<arr.length-1;i++){
-            left=left+arr[i];
-            leftsum[i+1]=left;
-        }
-        int[] rightsum = new int[arr.length];
-        rightsum[arr.length-1]=0;
-        for(int i =arr.length-1;i>0;i--){
-            right=right+arr[i];
-            rightsum[i-1]=right;
+        int sum = 0;
+        for(int i =0;i<arr.length;i++){
+            sum=sum+arr[i];
         }
         for(int i=0;i<arr.length;i++){
-            if(leftsum[i]==rightsum[i]){
-                return i ; 
+            int right = sum-left-arr[i];
+            if(left==right){
+                return i;
             }
+            left=left+arr[i];
         }
         return -1;
         
