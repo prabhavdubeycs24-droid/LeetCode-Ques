@@ -7,7 +7,7 @@ class Solution {
             return 1 ; 
         }
         //stores last index of a particular character 
-        int[] lastseen = new int[200];
+        int[] lastseen = new int[150];
         Arrays.fill(lastseen,-1);
         int i =0;
         int j = 0;
