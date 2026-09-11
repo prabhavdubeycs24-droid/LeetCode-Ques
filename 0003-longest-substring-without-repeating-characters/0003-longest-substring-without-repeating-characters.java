@@ -4,28 +4,32 @@ class Solution {
             return 0;
         }
         if(s.length()==1){
-            return 1;
+            return 1 ; 
         }
-        int n = s.length();
+        //stores last index of a particular character 
+        int[] lastseen = new int[200];
+        Arrays.fill(lastseen,-1);
         int i =0;
-        int j = 1 ;
+        int j = 0;
         int maxlen = Integer.MIN_VALUE;
-        while(j<n){
-            for(int k=j-1;k>=i;k--){
-                if(s.charAt(k)==s.charAt(j)){
-                    i=k+1;
-                    break;
+        while(j<s.length()){
+            int count = 0;
+            if(lastseen[s.charAt(j)]<j && lastseen[s.charAt(j)]>=i){
+                i=lastseen[s.charAt(j)]+1;
+                lastseen[s.charAt(j)] = j;
+                j++;
+            }
+            else{
+                lastseen[s.charAt(j)]=j;
+                j++;
+                count = j-i;
+                if(count>maxlen){
+                    maxlen = count ; 
                 }
             }
-            int count = 0;
-            j++;
-            count = j-i;
-            if(count>maxlen){
-                maxlen=count;
-            }
-        
+            
         }
-        return maxlen; 
+        return maxlen ; 
 
     }
 }
