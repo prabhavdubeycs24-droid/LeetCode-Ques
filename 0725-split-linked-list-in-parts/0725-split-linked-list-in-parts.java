@@ -1,35 +1,34 @@
+
 class Solution {
     public ListNode[] splitListToParts(ListNode head, int k) {
-        ListNode temp = head ; 
-        int size = 0;
+        ListNode temp = head;
+        ListNode[] ans = new ListNode[k];
+        int size =0;
         while(temp!=null){
             size++;
             temp=temp.next;
         }
-        int Capacity = size/k;
-        int extra = size%k ; 
-        ListNode[] ans = new ListNode[k];
-        for(int i =0;i<k;i++){
-            int currCapacity=0;
-            ans[i] = head ; 
-            if(extra!=0){
-                currCapacity=Capacity+1;
-                extra--;
+        int cap = size/k;
+        int xtra = size%k;
+        for(int i=0;i<k;i++){
+            ans[i]=head;
+            int currcap=cap;
+            if(xtra!=0){
+                currcap=cap+1;
+                xtra--;
             }
-            else{
-                currCapacity=Capacity;
-            }
-            int x = 0 ;
-            temp = head ; 
-            while(x<currCapacity-1 && temp!=null) {
+            int j = 0 ; 
+            temp=head;
+            while(j<currcap-1){
                 temp=temp.next;
-                x++;
+                j++;
             }
             if(temp!=null){
                 head=temp.next;
                 temp.next=null;
             }
+        
         }
-        return ans; 
+        return ans ; 
     }
 }
