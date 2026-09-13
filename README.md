@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+| [2074-reverse-nodes-in-even-length-groups](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/2074-reverse-nodes-in-even-length-groups) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Hash Table
