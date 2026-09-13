@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0875-koko-eating-bananas) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1572-matrix-diagonal-sum](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1572-matrix-diagonal-sum) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1991-find-the-middle-index-in-array](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1991-find-the-middle-index-in-array) |
@@ -364,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0054-spiral-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0240-search-a-2d-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0867-transpose-matrix) |
+| [1572-matrix-diagonal-sum](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1572-matrix-diagonal-sum) |
 ## Quicksort
 |  |
 | ------- |
