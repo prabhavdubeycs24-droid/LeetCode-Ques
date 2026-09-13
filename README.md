@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0033-search-in-rotated-sorted-array) |
 | [0066-plus-one](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0088-merge-sorted-array) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0128-longest-consecutive-sequence) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0125-valid-palindrome) |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0242-valid-anagram) |
@@ -346,4 +349,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0867-transpose-matrix) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
