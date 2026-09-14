@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/2487-remove-nodes-from-linked-list) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0739-daily-temperatures) |
 | [2487-remove-nodes-from-linked-list](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/2487-remove-nodes-from-linked-list) |
 ## Array
 |  |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0875-koko-eating-bananas) |
