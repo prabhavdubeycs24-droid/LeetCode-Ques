@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0257-binary-tree-paths) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0143-reorder-list) |
@@ -379,4 +381,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0119-pascals-triangle-ii) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
