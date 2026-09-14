@@ -1,36 +1,35 @@
 class Solution {
     public int[] nextGreaterElement(int[] nums1, int[] nums2) {
-        int n = nums2.length;
-        int[] arr = new int[n];
+        int[] arr1 = new int[nums2.length];
         Stack<Integer> st = new Stack<>();
-        st.push(nums2[n-1]);
-        arr[n-1]=-1;
+        int n = nums2.length;
+        st.push(nums2[nums2.length-1]);
+        arr1[n-1]=-1;
         int idx = n-2;
         while(idx>=0){
-            int ele = nums2[idx];
-            if(st.size()==0){
-                arr[idx]=-1;
+            if(st.size()!=0 && st.peek()>nums2[idx]){
+                arr1[idx]=st.peek();
+                st.push(nums2[idx]);
                 idx--;
-                st.push(ele);
             }
-            else if(st.peek()<ele){
-                st.pop();
+            else if(st.size()==0){
+                arr1[idx]=-1;
+                st.push(nums2[idx]);
+                idx--;
             }
             else{
-                arr[idx]=st.peek();
-                st.push(ele);
-                idx--;
+                st.pop();
             }
         }
         int[] arr2 = new int[nums1.length];
-        for(int i =0;i<nums1.length;i++){
-            int ele = nums1[i];
-            for(int j = 0;j<nums2.length;j++){
-                if(ele==nums2[j]){
-                    arr2[i]=arr[j];
+        for(int i=0;i<nums2.length;i++){
+            for(int j=0;j<nums1.length;j++){
+                if(nums1[j]==nums2[i]){
+                    arr2[j]=arr1[i];
                 }
             }
         }
-        return arr2;
+        return  arr2;
+
     }
 }
