@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0682-baseball-game) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0402-remove-k-digits](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0503-next-greater-element-ii) |
 | [2487-remove-nodes-from-linked-list](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/2487-remove-nodes-from-linked-list) |
 ## Array
 |  |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0287-find-the-duplicate-number) |
 | [0496-next-greater-element-i](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0852-peak-index-in-a-mountain-array) |
