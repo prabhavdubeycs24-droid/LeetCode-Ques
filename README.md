@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0387-first-unique-character-in-a-string) |
 | [0402-remove-k-digits](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0409-longest-palindrome) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Stack
 |  |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0402-remove-k-digits) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Greedy
 |  |
