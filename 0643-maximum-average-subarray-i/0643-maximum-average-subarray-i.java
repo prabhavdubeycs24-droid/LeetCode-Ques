@@ -5,11 +5,11 @@ class Solution {
         for(int i=0;i<k;i++){
             sum=sum+arr[i];
         }
-        int i =0;
-        int j = k;
+        int i =1;
+        int j = k-i+1;
         int max = sum;
         while(j<arr.length){
-            sum=sum-arr[i]+arr[j];
+            sum=sum-arr[i-1]+arr[j];
             if(sum>max){
                 max=sum;
             }
