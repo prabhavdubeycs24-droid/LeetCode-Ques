@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1572-matrix-diagonal-sum) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1929-concatenation-of-array](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1929-concatenation-of-array) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1991-find-the-middle-index-in-array](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1991-find-the-middle-index-in-array) |
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/2210-count-hills-and-valleys-in-an-array) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0682-baseball-game) |
 | [0867-transpose-matrix](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0867-transpose-matrix) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1929-concatenation-of-array](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1929-concatenation-of-array) |
 ## Design
 |  |
 | ------- |
