@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0287-find-the-duplicate-number) |
 | [0456-132-pattern](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0456-132-pattern) |
+| [0485-max-consecutive-ones](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0503-next-greater-element-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0643-maximum-average-subarray-i) |
