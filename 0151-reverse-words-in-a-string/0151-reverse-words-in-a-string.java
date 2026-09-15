@@ -11,10 +11,12 @@ class Solution {
             i++;
             j--;
         }
-        StringBuilder sb = new StringBuilder();
-        for(i=0;i<str.length;i++){
-            sb.append(str[i]+" ");
-        }
-        return sb.toString().trim();
+        //StringBuilder sb = new StringBuilder();
+        //for(i=0;i<str.length;i++){
+        //    sb.append(str[i]+" ");
+        //}
+        //return sb.toString().trim();
+
+        return String.join(" ",str);
     }
 }
