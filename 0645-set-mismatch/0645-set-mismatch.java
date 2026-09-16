@@ -1,25 +1,26 @@
 class Solution {
     public int[] findErrorNums(int[] arr) {
         int[] ans = new int[2];
-        int i =0;
         int n = arr.length;
-        while(i<arr.length){
-            if(arr[i]==arr[arr[i]-1] || arr[i]==i+1){
+        int i =0;
+        while(i<n){
+            if(arr[i]==i+1 || arr[i]==arr[arr[i]-1]){
                 i++;
             }
             else{
-                int idx = arr[i];
+                int idx = arr[i]-1;
                 int temp = arr[i];
-                arr[i]=arr[idx-1];
-                arr[idx-1]=temp;
+                arr[i]=arr[idx];
+                arr[idx]=temp;
             }
         }
-        for(i =0;i<arr.length;i++){
-            if(arr[i]!=i+1){
-                ans[0]=arr[i];
-                ans[1]=i+1;
+        for(int j=0;j<n;j++){
+            if(arr[j]!=j+1){
+                ans[0]=arr[j];
+                ans[1]=j+1;
+                return ans;
             }
         }
-        return ans ;
+        return new int[]{0,0};
     }
 }
