@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0268-missing-number) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -362,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0033-search-in-rotated-sorted-array) |
+| [0069-sqrtx](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0240-search-a-2d-matrix-ii) |
@@ -452,4 +454,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0456-132-pattern) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
