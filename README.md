@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0125-valid-palindrome) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0013-roman-to-integer) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0138-copy-list-with-random-pointer) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0189-rotate-array) |
