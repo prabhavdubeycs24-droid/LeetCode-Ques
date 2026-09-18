@@ -14,7 +14,7 @@
  * }
  */
 class Solution {
-    public static void helper(TreeNode root,int level,ArrayList<Integer> ans){
+    public static void helper(ArrayList<Integer> ans , TreeNode root , int level){
         if(root==null){
             return;
         }
@@ -24,12 +24,12 @@ class Solution {
         else{
             ans.set(level,root.val);
         }
-        helper(root.left,level+1,ans);
-        helper(root.right,level+1,ans);
+        helper(ans,root.left,level+1);
+        helper(ans,root.right,level+1);
     }
     public List<Integer> rightSideView(TreeNode root) {
         ArrayList<Integer> ans = new ArrayList<>();
-        helper(root,0,ans);// node , level and ans 
+        helper(ans,root,0);
         return ans;
     }
 }
