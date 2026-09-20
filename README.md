@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1859-sorting-the-sentence](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1859-sorting-the-sentence) |
 | [2785-sort-vowels-in-a-string](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/2785-sort-vowels-in-a-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Stack
 |  |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0867-transpose-matrix) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1929-concatenation-of-array](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1929-concatenation-of-array) |
+| [3498-reverse-degree-of-a-string](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/3498-reverse-degree-of-a-string) |
 ## Design
 |  |
 | ------- |
