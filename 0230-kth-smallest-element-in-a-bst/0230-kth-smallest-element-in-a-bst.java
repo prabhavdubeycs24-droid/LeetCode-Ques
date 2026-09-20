@@ -22,19 +22,15 @@ class Solution {
             return  ;
         }
         helper(root.left,k);
-        if(answer!=-1){
-            return;
+        count--;
+        if(count==0){
+            answer=root.val;
         }
-        if(count==k){
-            answer = root.val;
-            return;
-        }
-        count++;
         helper(root.right,k);
 
     }
     public int kthSmallest(TreeNode root, int k) {
-        count = 1;
+        count = k;
         answer = -1 ; 
         helper(root,k);
         return answer ;
