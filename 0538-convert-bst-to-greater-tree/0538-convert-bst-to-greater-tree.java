@@ -13,6 +13,7 @@
  *     }
  * }
  */
+//we need reverse inorder as we need to print root.val+every greater element than it , so we go in reverse order(i.e) highest value first then maintain sum and keep updating and adding it to the next elements 
 class Solution {
     static int sum ;
     public static void helper(TreeNode root){
