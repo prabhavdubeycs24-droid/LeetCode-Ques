@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0088-merge-sorted-array) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0053-maximum-subarray) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0240-search-a-2d-matrix-ii) |
 ## Heap (Priority Queue)
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0101-symmetric-tree) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0113-path-sum-ii) |
@@ -335,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0101-symmetric-tree) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0113-path-sum-ii) |
@@ -499,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0098-validate-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0538-convert-bst-to-greater-tree](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0538-convert-bst-to-greater-tree) |
