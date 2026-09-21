@@ -9,17 +9,14 @@ class Solution {
         int[] freq2 = new int[256];
         for(int i=0;i<n1;i++){
             if(freq1[s.charAt(i)]!=0 && freq1[s.charAt(i)]!=t.charAt(i)){
-                return false ; 
+                return false;
             }
             freq1[s.charAt(i)]=t.charAt(i);
-        }
-        for(int j=0;j<n1;j++){
-            if(freq2[t.charAt(j)]!=0 && freq2[t.charAt(j)]!=s.charAt(j)){
-                return false ; 
+            if(freq2[t.charAt(i)]!=0 && freq2[t.charAt(i)]!=s.charAt(i)){
+                return false;
             }
-            freq2[t.charAt(j)]=s.charAt(j);
+            freq2[t.charAt(i)]=s.charAt(i);
         }
-        return true ; 
-        
+        return true;
     }
 }
