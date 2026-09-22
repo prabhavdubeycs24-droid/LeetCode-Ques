@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0234-palindrome-linked-list) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0232-implement-queue-using-stacks) |
 | [0707-design-linked-list](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0707-design-linked-list) |
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -364,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -531,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0450-delete-node-in-a-bst) |
@@ -542,4 +547,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1382-balance-a-binary-search-tree) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
