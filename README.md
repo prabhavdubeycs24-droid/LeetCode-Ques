@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0875-koko-eating-bananas) |
+| [0977-squares-of-a-sorted-array](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1470-shuffle-the-array](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1470-shuffle-the-array) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0344-reverse-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0876-middle-of-the-linked-list](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0876-middle-of-the-linked-list) |
+| [0977-squares-of-a-sorted-array](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0977-squares-of-a-sorted-array) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -468,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0645-set-mismatch) |
+| [0977-squares-of-a-sorted-array](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1859-sorting-the-sentence](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1859-sorting-the-sentence) |
 | [2785-sort-vowels-in-a-string](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/2785-sort-vowels-in-a-string) |
