@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/2210-count-hills-and-valleys-in-an-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/2956-find-common-elements-between-two-arrays) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Two Pointers
 |  |
 | ------- |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0415-add-strings) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Divide and Conquer
 |  |
 | ------- |
