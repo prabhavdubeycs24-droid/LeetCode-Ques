@@ -6,7 +6,7 @@ class Solution {
             sum=sum+arr[i];
         }
         int i =1;
-        int j = k-i+1;
+        int j = k;
         int max = sum;
         while(j<arr.length){
             sum=sum-arr[i-1]+arr[j];
