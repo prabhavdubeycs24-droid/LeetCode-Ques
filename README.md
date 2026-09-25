@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0415-add-strings) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1859-sorting-the-sentence](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1859-sorting-the-sentence) |
 | [2785-sort-vowels-in-a-string](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/2785-sort-vowels-in-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/3498-reverse-degree-of-a-string) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0496-next-greater-element-i) |
 | [0645-set-mismatch](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0645-set-mismatch) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/2956-find-common-elements-between-two-arrays) |
@@ -537,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1004-max-consecutive-ones-iii) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Prefix Sum
