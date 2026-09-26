@@ -16,7 +16,7 @@ class Solution {
         int n = points.length;
         PriorityQueue<triplet> pq = new PriorityQueue<>();
         for(int i=0;i<n;i++){
-            double d = Math.sqrt((points[i][0]*points[i][0])+(points[i][1]*points[i][1]));
+            double d = ((points[i][0]*points[i][0])+(points[i][1]*points[i][1]));
             pq.add(new triplet(points[i][0],points[i][1],d));
         }
         while(pq.size()>k){
