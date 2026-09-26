@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0287-find-the-duplicate-number) |
+| [0347-top-k-frequent-elements](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0456-132-pattern](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0456-132-pattern) |
 | [0485-max-consecutive-ones](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0485-max-consecutive-ones) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0240-search-a-2d-matrix-ii) |
+| [0347-top-k-frequent-elements](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0973-k-closest-points-to-origin) |
 | [1382-balance-a-binary-search-tree](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1382-balance-a-binary-search-tree) |
 ## Heap (Priority Queue)
@@ -282,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0658-find-k-closest-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1046-last-stone-weight) |
@@ -492,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0347-top-k-frequent-elements) |
 | [0645-set-mismatch](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0658-find-k-closest-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0973-k-closest-points-to-origin) |
@@ -532,10 +537,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0973-k-closest-points-to-origin) |
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0387-first-unique-character-in-a-string) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Ternary Search
@@ -648,4 +655,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0973-k-closest-points-to-origin) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
