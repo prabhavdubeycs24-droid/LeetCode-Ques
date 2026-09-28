@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0011-container-with-most-water) |
 | [0402-remove-k-digits](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0409-longest-palindrome) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1382-balance-a-binary-search-tree](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1382-balance-a-binary-search-tree) |
 ## Monotonic Stack
 |  |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0503-next-greater-element-ii) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0658-find-k-closest-elements) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0496-next-greater-element-i) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0645-set-mismatch](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0645-set-mismatch) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -290,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0347-top-k-frequent-elements) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0658-find-k-closest-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1046-last-stone-weight) |
@@ -503,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0347-top-k-frequent-elements) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0645-set-mismatch](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0658-find-k-closest-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0973-k-closest-points-to-origin) |
@@ -563,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0658-find-k-closest-elements) |
 | [1004-max-consecutive-ones-iii](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1004-max-consecutive-ones-iii) |
