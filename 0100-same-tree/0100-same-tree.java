@@ -30,6 +30,6 @@ class Solution {
         if(!isSameTree(p.right,q.right)){
             return false;
         }
-        return true ; 
+        return true;
     }
 }
