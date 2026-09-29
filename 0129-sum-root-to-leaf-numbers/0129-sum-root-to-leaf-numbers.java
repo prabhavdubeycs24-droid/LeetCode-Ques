@@ -22,11 +22,11 @@ class Solution {
         if(root.left==null && root.right==null){
             al.add(sb.toString());
         }
-        
         helper(root.left,al,sb);
         helper(root.right,al,sb);
-        sb.deleteCharAt(sb.length()-1); // backtrack iss point se 
+        sb.deleteCharAt(sb.length()-1);
     }
+        
     public int sumNumbers(TreeNode root) {
         ArrayList<String> al = new ArrayList<>();
         StringBuilder sb = new StringBuilder();
