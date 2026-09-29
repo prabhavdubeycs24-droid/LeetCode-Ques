@@ -13,24 +13,22 @@
  *     }
  * }
  */
- // just check that the node should be greater than max in the path from root to that node 
 class Solution {
-    static int count ; 
-    public static void helper(TreeNode root ,int  maxSofar){
+    static int count;
+    public void helper(TreeNode root, int maxsofar){
         if(root==null){
-            return ; 
+            return;
         }
-        if(root.val>=maxSofar){
+        if(root.val>=maxsofar){
             count++;
         }
-        maxSofar=Math.max(maxSofar,root.val);
-        helper(root.left,maxSofar);
-        helper(root.right,maxSofar);
+        maxsofar=Math.max(maxsofar,root.val);
+        helper(root.left,maxsofar);
+        helper(root.right,maxsofar);
     }
     public int goodNodes(TreeNode root) {
         count = 0;
-        int maxSofar = Integer.MIN_VALUE;
-        helper(root,maxSofar);
-        return count ; 
+        helper(root,Integer.MIN_VALUE);
+        return count ;
     }
 }
