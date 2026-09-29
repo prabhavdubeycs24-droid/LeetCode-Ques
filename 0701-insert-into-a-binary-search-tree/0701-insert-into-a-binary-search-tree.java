@@ -19,29 +19,30 @@ class Solution {
             return new TreeNode(val);
         }
         if(root.left==null && root.right==null){
-            if(val>root.val){
-                root.right= new TreeNode(val);
-                return root ;
+            if(root.val<val){
+                root.right=new TreeNode(val);
+                return root;
             }
             else{
                 root.left=new TreeNode(val);
-                return root ; 
+                return root;
             }
         }
         if(val>root.val){
             if(root.right==null){
-                root.right= new TreeNode(val);
-                return root ; 
+                root.right=new TreeNode(val);
+                return root;
             }
             insertIntoBST(root.right,val);
+            
         }
-        else{
+        if(val<root.val){
             if(root.left==null){
-                root.left= new TreeNode(val);
+                root.left=new TreeNode(val);
                 return root;
             }
             insertIntoBST(root.left,val);
         }
-        return root ; 
+        return root;
     }
 }
