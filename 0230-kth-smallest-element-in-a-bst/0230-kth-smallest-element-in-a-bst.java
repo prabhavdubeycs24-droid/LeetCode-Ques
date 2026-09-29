@@ -17,22 +17,22 @@
 class Solution {
     static int count ;
     static int answer ;
-    public static void helper(TreeNode root , int k ){
+    public static void helper(TreeNode root ){
         if(root==null){
             return  ;
         }
-        helper(root.left,k);
+        helper(root.left);
         count--;
         if(count==0){
             answer=root.val;
         }
-        helper(root.right,k);
+        helper(root.right);
 
     }
     public int kthSmallest(TreeNode root, int k) {
         count = k;
         answer = -1 ; 
-        helper(root,k);
+        helper(root);
         return answer ;
     }
 }
