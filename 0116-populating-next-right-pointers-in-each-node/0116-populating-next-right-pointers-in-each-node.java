@@ -20,13 +20,13 @@ class Node {
     }
 };
 */
-// maintain a prev to connect temp ; 
+
 class Solution {
     public Node connect(Node root) {
         if(root==null){
-            return null ;
+            return root;
         }
-        Queue<Node> q = new LinkedList<>();
+        Queue<Node> q= new  LinkedList<>();
         q.add(root);
         while(q.size()!=0){
             int lvl = q.size();
