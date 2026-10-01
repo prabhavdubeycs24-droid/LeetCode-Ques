@@ -10,9 +10,29 @@ class Solution {
         if(arr[n-1]!=arr[n-2]){
             return arr[n-1];
         }
-        for(int i=1;i<n-1;i++){
-            if(arr[i]!=arr[i-1] && arr[i]!=arr[i+1]){
-                return arr[i];
+        int i=0;
+        int j=n-1;
+        while(i<=j){
+            int mid = i+(j-i)/2;
+            if(arr[mid]!=arr[mid+1] && arr[mid]!=arr[mid-1]){
+                return arr[mid];
+            }
+            if(arr[mid]==arr[mid-1]){
+                if(mid%2==0){
+                    j=mid-2;
+                }
+                else{
+                    i=mid+1;
+                }
+            }
+            else{
+                if(mid%2==0){
+                    i=mid+2;
+                }
+                else{
+                    j=mid-1;
+                }
+
             }
         }
         return -1;
