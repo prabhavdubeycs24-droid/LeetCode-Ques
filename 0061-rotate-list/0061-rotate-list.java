@@ -13,11 +13,11 @@ class Solution {
         if(head==null || head.next==null){
             return head ; 
         }
-        ListNode temp = head ;
         int size = 0;
+        ListNode temp = head ; 
         while(temp!=null){
-            temp=temp.next;
             size++;
+            temp=temp.next;
         }
         k=k%size;
         if(k==0){
@@ -29,11 +29,11 @@ class Solution {
         }
         ListNode newhead = temp.next;
         temp.next=null;
-        temp = newhead;
-        while(temp.next!=null){
-            temp=temp.next;
+        ListNode t = newhead;
+        while(t!=null && t.next!=null){
+            t=t.next;
         }
-        temp.next=head;
+        t.next=head;
         return newhead;
     }
 }
