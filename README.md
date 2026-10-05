@@ -253,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3731-find-missing-elements](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/3731-find-missing-elements) |
 ## Floyd's Cycle Finding Algorithm
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 ## Doubly-Linked List
 |  |
@@ -447,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 ## Binary Tree
 |  |
@@ -498,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
@@ -522,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Backtracking
 |  |
 | ------- |
