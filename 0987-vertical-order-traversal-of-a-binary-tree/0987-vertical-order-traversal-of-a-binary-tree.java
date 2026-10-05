@@ -13,73 +13,61 @@
  *     }
  * }
  */
-import java.util.*;
-
-class pair {
-    TreeNode root;
+class triplet{
+    TreeNode root ;
     int col;
-    pair(TreeNode root, int col) {
-        this.root = root;
-        this.col = col;
+    int lvl;
+    triplet(TreeNode root,int col,int lvl){
+        this.root=root;
+        this.col=col;
+        this.lvl=lvl;
     }
 }
-
 class Solution {
     public List<List<Integer>> verticalTraversal(TreeNode root) {
         List<List<Integer>> ans = new ArrayList<>();
-        if (root == null) return ans;
-
-        HashMap<Integer, ArrayList<Integer>> map = new HashMap<>();
-        Queue<pair> q = new LinkedList<>();
-        q.add(new pair(root, 0));
-        
-        int max = Integer.MIN_VALUE;
-        int min = Integer.MAX_VALUE;
-
-        while (q.size() != 0) {
+        HashMap<Integer , ArrayList<int []>> map = new HashMap();
+        Queue<triplet> q = new LinkedList<>();
+        q.add(new triplet(root,0,0));
+        while(q.size()!=0){
             int lvl = q.size();
-            
-            // 1. Create a subMap to temporarily store nodes ONLY on the current level/row
-            HashMap<Integer, ArrayList<Integer>> subMap = new HashMap<>();
-
-            for (int i = 0; i < lvl; i++) {
-                pair p = q.remove();
-                TreeNode temp = p.root;
-                int col = p.col;
-
-                if (!subMap.containsKey(col)) {
-                    subMap.put(col, new ArrayList<Integer>());
+            for(int i=0;i<lvl;i++){
+                triplet t = q.remove();
+                int r = t.col;
+                int l = t.lvl;
+                TreeNode temp = t.root;
+                if(!map.containsKey(r)){
+                    map.put(r,new ArrayList<int[]>());
                 }
-                subMap.get(col).add(temp.val);
-                
-                max = Math.max(max, col);
-                min = Math.min(min, col);
-
-                if (temp.left != null) {
-                    q.add(new pair(temp.left, col - 1));
+                map.get(r).add(new int[]{l,temp.val});
+                if(temp.left!=null){
+                    q.add(new triplet(temp.left,r-1,l+1));
                 }
-                if (temp.right != null) {
-                    q.add(new pair(temp.right, col + 1));
+                if(temp.right!=null){
+                    q.add(new triplet(temp.right,r+1,l+1));
                 }
             }
-
-            // 2. Sort ONLY the overlapping values on the same row-column coordinate
-            for (int col : subMap.keySet()) {
-                Collections.sort(subMap.get(col));
-                
-                // 3. Append these sorted row items safely into the main vertical map
-                if (!map.containsKey(col)) {
-                    map.put(col, new ArrayList<>());
+        }
+        ArrayList<Integer> cols = new ArrayList<>();
+        for(int c:map.keySet()){
+            cols.add(c);
+        }
+        Collections.sort(cols);
+        for(ArrayList<int[]> al : map.values()){
+            Collections.sort(al,(a,b)->{
+                if(a[0]!=b[0]){ // based on col 
+                    return a[0]-b[0];
                 }
-                map.get(col).addAll(subMap.get(col));
+                return a[1]-b[1]; // based on values 
+            });
+        }
+        for(int coll : cols){
+            ArrayList<Integer> al = new ArrayList<>();
+            for(int[] x : map.get(coll)){
+                al.add(x[1]);
             }
+            ans.add(new ArrayList<>(al));
         }
-
-        // 4. Populate your final answer list from min column to max column
-        for (int i = min; i <= max; i++) {
-            ans.add(map.get(i));
-        }
-        
-        return ans; 
+        return ans ; 
     }
 }
