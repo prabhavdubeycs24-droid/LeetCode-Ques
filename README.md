@@ -361,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0662-maximum-width-of-binary-tree) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0872-leaf-similar-trees](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0872-leaf-similar-trees) |
 | [0938-range-sum-of-bst](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0938-range-sum-of-bst) |
@@ -442,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0662-maximum-width-of-binary-tree) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -496,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0662-maximum-width-of-binary-tree) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0783-minimum-distance-between-bst-nodes) |
