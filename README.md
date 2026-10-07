@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0415-add-strings) |
 | [0443-string-compression](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0443-string-compression) |
 | [0541-reverse-string-ii](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0541-reverse-string-ii) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1859-sorting-the-sentence](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1859-sorting-the-sentence) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0739-daily-temperatures) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1944-number-of-visible-people-in-a-queue) |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0409-longest-palindrome) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1382-balance-a-binary-search-tree](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1382-balance-a-binary-search-tree) |
 ## Monotonic Stack
 |  |
@@ -709,6 +712,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0022-generate-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Trie
 |  |
 | ------- |
