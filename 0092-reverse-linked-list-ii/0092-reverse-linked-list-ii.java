@@ -1,8 +1,18 @@
+/**
+ * Definition for singly-linked list.
+ * public class ListNode {
+ *     int val;
+ *     ListNode next;
+ *     ListNode() {}
+ *     ListNode(int val) { this.val = val; }
+ *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
+ * }
+ */
 class Solution {
-    public static ListNode reverse(ListNode head ){
-        ListNode c = head ; 
-        ListNode p = null ;
-        ListNode f = null ;
+    public static ListNode reverse(ListNode head){
+        ListNode c = head ;
+        ListNode p = null;
+        ListNode f = null;
         while(c!=null){
             f=c.next;
             c.next=p;
@@ -13,28 +23,27 @@ class Solution {
     }
     public ListNode reverseBetween(ListNode head, int left, int right) {
         if(left==right){
-            return head;
+            return head ;
         }
+        
         ListNode dummy = new ListNode(-1);
-        dummy.next=head;
         ListNode temp = dummy ;
+        temp.next=head;
+        //left pos ke ek node pehle
         for(int i=1;i<left;i++){
             temp=temp.next;
         }
+        ListNode revhead = temp.next;
+        //going to the right p0s node 
         ListNode temp2=head;
         for(int i=1;i<right;i++){
             temp2=temp2.next;
         }
-        ListNode head2=temp.next;
-        temp.next=null;
-        ListNode head3 = null;
-        if(temp2!=null) head3 = temp2.next;
-        if(temp2!=null) temp2.next=null;
-
-        ListNode newHead = reverse(head2);
-
-        temp.next=newHead;
-        if(head2!=null) head2.next=head3 ;
-        return dummy.next;  
+        ListNode newhead = temp2.next;
+        temp2.next=null;
+        ListNode naya = reverse(revhead);
+        temp.next=naya;
+        revhead.next=newhead;
+        return dummy.next ; 
     }
 }
