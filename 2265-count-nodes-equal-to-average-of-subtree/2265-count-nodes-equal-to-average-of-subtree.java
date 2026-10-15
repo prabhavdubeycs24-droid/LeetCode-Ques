@@ -15,18 +15,6 @@
  */
 class Solution { 
     static int count ;
-    public static void solve(TreeNode root){
-        if(root==null){
-            return;
-        }
-        int[] ans = helper(root);
-        if((ans[1]!=0) && (ans[0]/ans[1])==root.val){
-            count++;
-        }
-        solve(root.left);
-        solve(root.right);
-
-    }
     public static int[] helper(TreeNode root){
         if(root==null){
             return new int[]{0,0};
@@ -36,11 +24,14 @@ class Solution {
 
         int sum = root.val+left[0]+right[0];
         int countnod =1+ left[1]+right[1];
+        if((sum/countnod)==root.val){
+            count++;
+        }
         return new int[]{sum,countnod};
     }
     public int averageOfSubtree(TreeNode root) {
         count  = 0;
-        solve(root);
+        helper(root);
         return count ; 
     }
 }
