@@ -14,29 +14,24 @@
  * }
  */
 class Solution {
-    public int getmax(TreeNode root){
+    public static int count ; 
+    public static int max ; 
+    public int  helper(TreeNode root){
         if(root==null){
             return Integer.MIN_VALUE;
         }
-        return Math.max(root.val,Math.max(getmax(root.left),getmax(root.right)));
-    }
-    public static int count ;
-    public void solve(TreeNode root){
-        if(root==null){
-            return;
-        }
-        if(root.val==getmax(root)){
+        int left = helper(root.left);
+        int right = helper(root.right);
+        if(Math.max(left,Math.max(right,root.val))==root.val){
             count++;
+            
         }
-        solve(root.left);
-        solve(root.right);
+        return Math.max(left,Math.max(right,root.val));
     }
     public int countDominantNodes(TreeNode root) {
-        if(root.left==null && root.right==null){
-            return 1;
-        }
         count = 0;
-        solve(root);
-        return count ;
+        max = Integer.MIN_VALUE;
+        helper(root);
+        return count ; 
     }
 }
