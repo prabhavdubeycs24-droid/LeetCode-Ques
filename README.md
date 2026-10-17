@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0169-majority-element](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0238-product-of-array-except-self) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0268-missing-number) |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0347-top-k-frequent-elements) |
@@ -615,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0147-insertion-sort-list) |
+| [0169-majority-element](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0268-missing-number) |
@@ -675,6 +679,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0387-first-unique-character-in-a-string) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
@@ -826,4 +831,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/2778-sum-of-squares-of-special-elements) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
