@@ -237,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2074-reverse-nodes-in-even-length-groups](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/2074-reverse-nodes-in-even-length-groups) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2487-remove-nodes-from-linked-list](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/2487-remove-nodes-from-linked-list) |
 ## Hash Table
 |  |
@@ -423,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0867-transpose-matrix) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1929-concatenation-of-array](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1929-concatenation-of-array) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/2181-merge-nodes-in-between-zeros) |
 | [3498-reverse-degree-of-a-string](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/3498-reverse-degree-of-a-string) |
 ## Design
 |  |
