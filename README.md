@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2956-find-common-elements-between-two-arrays](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3697-compute-decimal-representation](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/3697-compute-decimal-representation) |
 | [3731-find-missing-elements](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0973-k-closest-points-to-origin) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3697-compute-decimal-representation](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/3697-compute-decimal-representation) |
 ## Divide and Conquer
 |  |
 | ------- |
