@@ -1,6 +1,5 @@
 class Solution {
     public int[] evenOddBit(int n) {
-        int[] ans = new int[2]; // 1st even , 2nd odd 
         int even = 0;
         int odd = 0 ;
         int i = 0 ;
@@ -16,8 +15,6 @@ class Solution {
             i++;
             n=n>>1;
         }
-        ans[0]=even;
-        ans[1]=odd;
-        return ans ; 
+        return new int[]{even,odd}; 
     }
 }
