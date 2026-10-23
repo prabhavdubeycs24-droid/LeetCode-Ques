@@ -678,6 +678,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0645-set-mismatch) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [2595-number-of-even-and-odd-bits](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/2595-number-of-even-and-odd-bits) |
 | [4030-check-ascii-palindromic](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/4030-check-ascii-palindromic) |
 ## Quickselect
 |  |
