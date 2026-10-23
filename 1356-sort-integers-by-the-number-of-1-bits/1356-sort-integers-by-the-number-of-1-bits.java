@@ -6,7 +6,11 @@ class pair implements Comparable<pair>{
         this.ele=ele;
     }
     public int compareTo(pair p){
-        return Integer.compare(this.count,p.count);
+        int s =  Integer.compare(this.count,p.count);
+        if(s==0){
+            return Integer.compare(this.ele,p.ele);
+        }
+        return s ; 
     }
 }
 class Solution {
