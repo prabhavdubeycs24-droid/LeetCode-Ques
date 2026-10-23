@@ -4,13 +4,9 @@ class Solution {
         int odd = 0 ;
         int i = 0 ;
         while(n!=0){
-            if(n%2!=0){
-                if(i%2==0){
-                    even++;
-                }
-                else{
-                    odd++;
-                }
+            if((n&1)!=0){
+                if(i%2==0) even++;
+                else odd++;
             }
             i++;
             n=n>>1;
