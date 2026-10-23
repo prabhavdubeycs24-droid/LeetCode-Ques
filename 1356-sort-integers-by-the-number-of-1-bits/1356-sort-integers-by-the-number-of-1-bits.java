@@ -16,7 +16,6 @@ class pair implements Comparable<pair>{
 class Solution {
     public int[] sortByBits(int[] arr) {
         int n = arr.length;
-        Arrays.sort(arr);
         ArrayList<pair> al = new ArrayList<>();
         for(int i=0;i<n;i++){
             al.add(new pair(Integer.bitCount(arr[i]) , arr[i]));
