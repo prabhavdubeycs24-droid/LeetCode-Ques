@@ -311,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0415-add-strings) |
 | [0973-k-closest-points-to-origin](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0973-k-closest-points-to-origin) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [3370-smallest-number-with-all-set-bits](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3697-compute-decimal-representation](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/3697-compute-decimal-representation) |
 ## Divide and Conquer
@@ -683,6 +684,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0693-binary-number-with-alternating-bits](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0693-binary-number-with-alternating-bits) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2595-number-of-even-and-odd-bits](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/2595-number-of-even-and-odd-bits) |
+| [3370-smallest-number-with-all-set-bits](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/3370-smallest-number-with-all-set-bits) |
 | [4030-check-ascii-palindromic](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/4030-check-ascii-palindromic) |
 ## Quickselect
 |  |
