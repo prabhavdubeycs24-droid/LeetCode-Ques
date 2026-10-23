@@ -15,15 +15,7 @@ class Solution {
         Arrays.sort(arr);
         ArrayList<pair> al = new ArrayList<>();
         for(int i=0;i<n;i++){
-            int j = arr[i];
-            int count = 0;
-            while(j!=0){
-                if(j%2!=0){
-                    count++;
-                }
-                j=j>>1;
-            }
-            al.add(new pair(count , arr[i]));
+            al.add(new pair(Integer.bitCount(arr[i]) , arr[i]));
         }
         Collections.sort(al);
         int[] ans = new int[al.size()];
