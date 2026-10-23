@@ -678,6 +678,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0338-counting-bits) |
 | [0645-set-mismatch](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0645-set-mismatch) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2595-number-of-even-and-odd-bits](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/2595-number-of-even-and-odd-bits) |
@@ -761,6 +762,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0338-counting-bits](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0338-counting-bits) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Bracket Sequences
 |  |
