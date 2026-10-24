@@ -292,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0143-reorder-list) |
 | [0231-power-of-two](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0342-power-of-four) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2487-remove-nodes-from-linked-list](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/2487-remove-nodes-from-linked-list) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0415-add-strings) |
