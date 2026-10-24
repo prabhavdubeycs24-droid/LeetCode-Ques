@@ -687,6 +687,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0693-binary-number-with-alternating-bits](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2595-number-of-even-and-odd-bits](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/2595-number-of-even-and-odd-bits) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/3370-smallest-number-with-all-set-bits) |
 | [4030-check-ascii-palindromic](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/4030-check-ascii-palindromic) |
