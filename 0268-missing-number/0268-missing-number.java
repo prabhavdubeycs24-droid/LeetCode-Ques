@@ -1,11 +1,14 @@
 class Solution {
-    public int missingNumber(int[] nums) {
-        int n = nums.length;
-        int expsum = n*(n+1)/2;
-        int sum=0;
-        for(int i =0;i<nums.length;i++){
-            sum=sum+nums[i];
+    public int missingNumber(int[] arr) {
+        int exp = 0 ; 
+        int n = arr.length;
+        for(int i=1;i<=n;i++){
+            exp=exp^i;
         }
-        return expsum-sum;
+        int act = 0 ; 
+        for(int i=0;i<n;i++){
+            act = act^arr[i];
+        }
+        return exp^act;
     }
 }
