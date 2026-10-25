@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0456-132-pattern](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0456-132-pattern) |
+| [0477-total-hamming-distance](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0477-total-hamming-distance) |
 | [0485-max-consecutive-ones](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0503-next-greater-element-ii) |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0415-add-strings) |
+| [0477-total-hamming-distance](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0477-total-hamming-distance) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0973-k-closest-points-to-origin](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0973-k-closest-points-to-origin) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -695,6 +697,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0342-power-of-four) |
 | [0461-hamming-distance](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0461-hamming-distance) |
+| [0477-total-hamming-distance](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0477-total-hamming-distance) |
 | [0645-set-mismatch](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
