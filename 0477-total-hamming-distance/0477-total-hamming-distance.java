@@ -1,3 +1,4 @@
+// every different bit pair will form pair , therefore total pair = no. of 1 * no. of 0
 class Solution {
     public int totalHammingDistance(int[] arr) {
         int sum = 0; 
