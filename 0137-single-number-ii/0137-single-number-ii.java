@@ -1,20 +1,26 @@
 class Solution {
     public int singleNumber(int[] arr) {
-        HashMap<Integer,Integer> map = new HashMap();
-        for(int i=0;i<arr.length;i++){
-            if(map.containsKey(arr[i])){
-                int f = map.get(arr[i]);
-                map.put(arr[i],f+1);
+        int[] onec = new int[32];
+        for(int i=0;i<=31;i++){
+            int count = 0; 
+            for(int j=0;j<arr.length;j++){
+                if(arr[j]%2!=0){
+                    count++;
+                }
+                arr[j]=arr[j]>>>1;
+            }
+            onec[i]=count;
+        }
+        StringBuilder sb = new StringBuilder(32);
+        for(int i=0;i<=31;i++){
+            if(onec[i]%3!=0){
+                sb.append('1');
             }
             else{
-                map.put(arr[i],1);
+                sb.append('0');
             }
         }
-        for(int ele : map.keySet()){
-            if(map.get(ele)==1){
-                return ele;
-            }
-        }
-        return -1;
+        sb.reverse();
+        return (int)Long.parseLong(sb.toString(),2);
     }
 }
