@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1004-max-consecutive-ones-iii) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1046-last-stone-weight](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1046-last-stone-weight) |
+| [1248-count-number-of-nice-subarrays](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1248-count-number-of-nice-subarrays) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
+| [1248-count-number-of-nice-subarrays](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0509-fibonacci-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0973-k-closest-points-to-origin](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0973-k-closest-points-to-origin) |
+| [1248-count-number-of-nice-subarrays](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1248-count-number-of-nice-subarrays) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -754,6 +757,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0658-find-k-closest-elements) |
 | [1004-max-consecutive-ones-iii](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -765,6 +769,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1480-running-sum-of-1d-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
