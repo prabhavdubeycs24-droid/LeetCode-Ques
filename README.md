@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0056-merge-intervals) |
+| [0064-minimum-path-sum](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0078-subsets) |
@@ -795,6 +796,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0054-spiral-matrix) |
+| [0064-minimum-path-sum](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0064-minimum-path-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0861-score-after-flipping-matrix](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0861-score-after-flipping-matrix) |
@@ -816,6 +818,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0062-unique-paths) |
+| [0064-minimum-path-sum](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0119-pascals-triangle-ii) |
