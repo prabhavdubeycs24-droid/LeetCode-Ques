@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1859-sorting-the-sentence](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1859-sorting-the-sentence) |
+| [2129-capitalize-the-title](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/2129-capitalize-the-title) |
 | [2785-sort-vowels-in-a-string](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/2785-sort-vowels-in-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/3517-smallest-palindromic-rearrangement-i) |
