@@ -344,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0509-fibonacci-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0973-k-closest-points-to-origin](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0973-k-closest-points-to-origin) |
+| [1137-n-th-tribonacci-number](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1137-n-th-tribonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1248-count-number-of-nice-subarrays) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/3370-smallest-number-with-all-set-bits) |
@@ -828,6 +829,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0746-min-cost-climbing-stairs) |
+| [1137-n-th-tribonacci-number](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1137-n-th-tribonacci-number) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Bracket Sequences
 |  |
@@ -924,6 +926,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1137-n-th-tribonacci-number) |
 ## Combinatorics
 |  |
 | ------- |
