@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3697-compute-decimal-representation](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/3697-compute-decimal-representation) |
 | [3731-find-missing-elements](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/3731-find-missing-elements) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3370-smallest-number-with-all-set-bits](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3697-compute-decimal-representation](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/3697-compute-decimal-representation) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Divide and Conquer
 |  |
 | ------- |
