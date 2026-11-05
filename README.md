@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1046-last-stone-weight](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1046-last-stone-weight) |
 | [1248-count-number-of-nice-subarrays](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1248-count-number-of-nice-subarrays) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -813,6 +814,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0861-score-after-flipping-matrix](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0861-score-after-flipping-matrix) |
 | [0867-transpose-matrix](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0867-transpose-matrix) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1572-matrix-diagonal-sum](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1572-matrix-diagonal-sum) |
 ## Quicksort
 |  |
@@ -843,6 +845,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1137-n-th-tribonacci-number) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Bracket Sequences
 |  |
