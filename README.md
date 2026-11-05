@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1289-minimum-falling-path-sum-ii](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1470-shuffle-the-array](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1470-shuffle-the-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0658-find-k-closest-elements) |
 | [0876-middle-of-the-linked-list](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0977-squares-of-a-sorted-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -692,6 +694,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1859-sorting-the-sentence](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1859-sorting-the-sentence) |
 | [2785-sort-vowels-in-a-string](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/2785-sort-vowels-in-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -717,6 +720,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1004-max-consecutive-ones-iii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
