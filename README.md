@@ -446,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0872-leaf-similar-trees](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0872-leaf-similar-trees) |
 | [0897-increasing-order-search-tree](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0938-range-sum-of-bst) |
+| [0965-univalued-binary-tree](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0965-univalued-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -541,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0872-leaf-similar-trees](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0872-leaf-similar-trees) |
 | [0897-increasing-order-search-tree](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0938-range-sum-of-bst) |
+| [0965-univalued-binary-tree](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0965-univalued-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -606,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0872-leaf-similar-trees](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0872-leaf-similar-trees) |
 | [0897-increasing-order-search-tree](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0938-range-sum-of-bst) |
+| [0965-univalued-binary-tree](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0965-univalued-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -642,6 +645,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0965-univalued-binary-tree](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0965-univalued-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1448-count-good-nodes-in-binary-tree) |
