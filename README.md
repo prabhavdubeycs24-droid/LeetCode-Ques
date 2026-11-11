@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0477-total-hamming-distance](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0477-total-hamming-distance) |
 | [0485-max-consecutive-ones](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0485-max-consecutive-ones) |
+| [0494-target-sum](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0525-contiguous-array) |
@@ -660,6 +661,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0257-binary-tree-paths) |
+| [0494-target-sum](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0494-target-sum) |
 ## DP on Trees
 |  |
 | ------- |
@@ -859,6 +861,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0221-maximal-square) |
 | [0322-coin-change](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0338-counting-bits) |
+| [0494-target-sum](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0746-min-cost-climbing-stairs) |
 | [0931-minimum-falling-path-sum](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0931-minimum-falling-path-sum) |
@@ -970,8 +973,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0322-coin-change) |
+| [0494-target-sum](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0494-target-sum) |
 ## Complete Knapsack
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0322-coin-change) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
