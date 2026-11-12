@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -869,6 +870,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1277-count-square-submatrices-with-all-ones](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -974,6 +976,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0322-coin-change](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0494-target-sum) |
+| [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 ## Complete Knapsack
 |  |
 | ------- |
@@ -982,4 +985,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0494-target-sum) |
+| [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 <!---LeetCode Topics End-->
