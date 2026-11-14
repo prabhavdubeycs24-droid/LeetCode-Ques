@@ -1,22 +1,23 @@
 class Solution {
-
     public int countHillValley(int[] arr) {
-        int count = 0 ;
-        ArrayList<Integer> demo = new ArrayList<>();
-        for(int i=0;i<arr.length;i++){
-            if(i!=0 && demo.get(demo.size()-1)==arr[i]){
-                continue;
+        ArrayList<Integer> al = new ArrayList<>();
+        al.add(arr[0]);
+        int i = 1 ;
+        while(i<arr.length){
+            if(arr[i]==al.get(al.size()-1)){
+                i++;
             }
-            demo.add(arr[i]);
-        }
-        for(int i=1;i<demo.size()-1;i++){
-            if(demo.get(i)>demo.get(i+1) && demo.get(i)>demo.get(i-1)){
-                count++;
-            }
-            if(demo.get(i)<demo.get(i+1) && demo.get(i)<demo.get(i-1)){
-                count++;
+            else{
+                al.add(arr[i]);
             }
         }
-        return count ; 
+        int count = 0 ; 
+        for(i=1;i<al.size()-1;i++){
+            if((al.get(i)>al.get(i+1)&&al.get(i)>al.get(i-1)) ||(al.get(i)<al.get(i+1) && al.get(i)<al.get(i-1))){
+                count++;
+            }
+        }
+        return count;
+
     }
 }
