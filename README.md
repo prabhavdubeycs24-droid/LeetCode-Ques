@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-score-after-flipping-matrix](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0861-score-after-flipping-matrix) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1382-balance-a-binary-search-tree](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1382-balance-a-binary-search-tree) |
+| [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1480-running-sum-of-1d-array) |
 | [1572-matrix-diagonal-sum](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1572-matrix-diagonal-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1929-concatenation-of-array](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1929-concatenation-of-array) |
@@ -744,6 +746,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1004-max-consecutive-ones-iii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Bit Manipulation
@@ -891,6 +894,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1289-minimum-falling-path-sum-ii](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 ## Bracket Sequences
 |  |
