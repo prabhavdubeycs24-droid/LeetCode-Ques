@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0541-reverse-string-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0583-delete-operation-for-two-strings) |
 | [0709-to-lower-case](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0709-to-lower-case) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1092-shortest-common-supersequence](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1092-shortest-common-supersequence) |
@@ -876,6 +877,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0583-delete-operation-for-two-strings) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0746-min-cost-climbing-stairs](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0746-min-cost-climbing-stairs) |
 | [0931-minimum-falling-path-sum](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0931-minimum-falling-path-sum) |
 | [1035-uncrossed-lines](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1035-uncrossed-lines) |
@@ -1006,6 +1008,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0583-delete-operation-for-two-strings](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0583-delete-operation-for-two-strings) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1035-uncrossed-lines](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1035-uncrossed-lines) |
 | [1092-shortest-common-supersequence](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1143-longest-common-subsequence) |
