@@ -9,6 +9,7 @@ class Solution {
             }
             else{
                 al.add(arr[i]);
+                i++;
             }
         }
         int count = 0 ; 
