@@ -1,20 +1,23 @@
 class Solution {
     public int lengthOfLIS(int[] arr) {
-        int[][] dp = new int[arr.length][arr.length];
-        return helper(0,-1,arr,dp);
-    }
-    public static int helper(int idx , int prev , int[] arr, int[][] dp){
-        if(idx==arr.length){
-            return 0;
+        int[] dp = new int[arr.length];
+        dp[0]=1;
+        int tru_max = 1;
+        for(int i=1;i<arr.length;i++){
+            int max = -1;
+            for(int j=i;j>=0;j--){
+                if(arr[i]>arr[j]){
+                    max = Math.max(max,dp[j]);
+                }
+            }
+            if(max!=-1){
+                dp[i]=max+1;
+            }
+            else{
+                dp[i]=1;
+            }
+            tru_max=Math.max(tru_max,dp[i]);
         }
-        if(dp[idx][prev+1]!=0){
-            return dp[idx][prev+1];
-        }
-        int skip = helper(idx+1,prev,arr,dp);
-        if(prev!=-1 && arr[idx]<=arr[prev]){
-            return dp[idx][prev+1] = skip;
-        }
-        int pick = 1 + helper(idx+1,idx,arr,dp);
-        return dp[idx][prev+1] = Math.max(pick,skip);
+        return tru_max;
     }
 }
