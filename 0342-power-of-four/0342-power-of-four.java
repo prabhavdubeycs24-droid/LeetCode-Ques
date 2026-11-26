@@ -3,12 +3,16 @@ class Solution {
         if(n<=0){
             return false;
         }
-        while(n!=1){
-            if(n%4!=0){
-                return false;
-            }
-            n=n/4;
+        boolean f1 = false;
+        boolean f2 = false;
+        double a = Math.sqrt(n);
+        if(a*a==n){
+            f1=true;
         }
-        return true;
+        if((n & (n-1)) == 0){
+            f2 = true;
+        }
+        if( f1&&f2) return true;
+        return false;
     }
 }
