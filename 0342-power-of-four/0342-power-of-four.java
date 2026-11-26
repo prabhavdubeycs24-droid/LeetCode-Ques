@@ -3,19 +3,12 @@ class Solution {
         if(n<=0){
             return false;
         }
-        boolean flag1 = false;
-        boolean flag2 = false;
-        int x = (int)Math.sqrt(n);
-        if(x*x==n){
-            flag1 = true;
+        while(n!=1){
+            if(n%4!=0){
+                return false;
+            }
+            n=n/4;
         }
-        if((n&(n-1))==0){
-            flag2  = true;
-        }
-        if(flag1 && flag2){
-            return true;
-        }
-        return false;
-
+        return true;
     }
 }
