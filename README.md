@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0646-maximum-length-of-pair-chain) |
 | [0658-find-k-closest-elements](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0682-baseball-game) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0724-find-pivot-index](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0746-min-cost-climbing-stairs) |
@@ -753,6 +754,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0658-find-k-closest-elements) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1004-max-consecutive-ones-iii) |
@@ -818,6 +820,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0658-find-k-closest-elements) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1004-max-consecutive-ones-iii](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -901,6 +904,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0583-delete-operation-for-two-strings) |
 | [0646-maximum-length-of-pair-chain](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0646-maximum-length-of-pair-chain) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0746-min-cost-climbing-stairs](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0746-min-cost-climbing-stairs) |
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0873-length-of-longest-fibonacci-subsequence) |
 | [0931-minimum-falling-path-sum](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0931-minimum-falling-path-sum) |
@@ -1043,4 +1047,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0354-russian-doll-envelopes) |
 | [0646-maximum-length-of-pair-chain](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0646-maximum-length-of-pair-chain) |
+## Rolling Hash
+|  |
+| ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0718-maximum-length-of-repeated-subarray) |
 <!---LeetCode Topics End-->
