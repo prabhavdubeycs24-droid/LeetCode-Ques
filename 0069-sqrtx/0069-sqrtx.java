@@ -1,20 +1,25 @@
 class Solution {
     public int mySqrt(int x) {
-        long i =0;
+        if(x==0){
+            return 0;
+        }
+        long i = 1 ;
         long j = x;
-        long mid = 0;
+        long idx = -1;
         while(i<=j){
-            mid = i + (j-i)/2 ;
-            if(mid*mid==x){
-                return (int)mid;
-            }
-            else if(mid*mid<x){
-                i=mid+1;
-            }
-            else{
+            long mid = (j-i)/2 + i;
+            if(mid*mid>x){
                 j=mid-1;
             }
+            else if(mid*mid==x){
+                return (int)mid;
+            }
+            else{
+                i=mid+1;
+                idx = mid ;
+            }
         }
-        return (int)j;
+        int ans = (int)idx;
+        return ans; 
     }
 }
