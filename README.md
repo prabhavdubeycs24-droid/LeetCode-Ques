@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1004-max-consecutive-ones-iii) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1035-uncrossed-lines](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1035-uncrossed-lines) |
 | [1046-last-stone-weight](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1046-last-stone-weight) |
 | [1248-count-number-of-nice-subarrays](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1248-count-number-of-nice-subarrays) |
@@ -766,6 +767,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1004-max-consecutive-ones-iii) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/prabhavdubeycs24-droid/LeetCode-Ques/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
